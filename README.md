@@ -10,9 +10,7 @@ Animesh is our creative genius transformed abstract concepts into captivating vi
 Pritam 💻 - Backend Architect 
 The architect behind the scenes, Pritam skillfully handled backend development, user authentication, and the seamless integration of all components. His dedication to creating a robust and efficient backend has ensured that our project not only looks good but functions flawlessly.
 
-Arya Aditanshu Behera 📁 - Project Manager (Senior)
-Adeptly managed file uploads, an interactive JamBoard and crafted a productivity-boosting To-Do List feature, enhancing the functionality of Project Study-Buddies. Additionally, her skills in describing complex components played a vital role in conveying the technical aspects of our project effectively.
+Arya Aditanshu Behera 📁 - Project Manager 
 
-Shipra Tanvi 📁 - Project Manager (Junior)
-Nishant's visionary leadership as Project Director encompassed guiding, collaboratively refining frontend style, and also enhancing backend elements. His resource collection and meticulous text crafting enriched our project holistically.
+Shipra Tanvi 📁 - Project Manager
 
